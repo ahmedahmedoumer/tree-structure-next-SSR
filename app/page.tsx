@@ -1,4 +1,5 @@
 import Image from "next/image";
+import 'reflect-metadata';
 
 export default function Home() {
   return (
